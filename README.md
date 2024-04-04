@@ -1,9 +1,12 @@
- PhantomCreaper here.  
+![](https://komarev.com/ghpvc/?username=your-github-PhantomCreaper&color=blueviolet)
+<!-- # PhantomCreaper Here -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=2000&pause=2000&color=A539F7&background=FFFFFF00&random=false&width=500&lines=PhantomCreaper+here!+%F0%9F%91%BE)](https://git.io/typing-svg)
+
  Experienced in a few basic coding languages and concepts.  
- Always looking to dwell more into competitive coding and broadening my repoertoire.  
+ Always looking to dwell more into competitive coding and broadening my repertoire.  
  Find me on every platform with the same name ;)  
 
-Languages I know:  
+## Languages I know: 
   
 <img src="https://github.com/PhantomCreaper/PhantomCreaper/assets/131944608/da6204bc-70b0-4eca-9967-e3ce448579f8" width="100" height="100">
 <img src="https://github.com/PhantomCreaper/PhantomCreaper/assets/131944608/107f6e0f-39c0-44f7-82bd-aedb056c1d9d" width="100" height="100">
